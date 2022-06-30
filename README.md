@@ -1,3 +1,3 @@
 # nutshud
 
-this is a hud that i made for funsies. ya i think its pretty cool! 
+tf2 hud based on the default hud. i use this and put it here in case anyone else wants to use it
